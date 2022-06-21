@@ -1,4 +1,4 @@
-# Pewlett-Hackard-Analysis
+# Pewlett-Hackard-Staffing-Analysis
 ## Overview of the Project
 Pewlett hackard is a large organization preparing for a potentially sizable portion of their employees retiring. The leadership team wanted to analyze the employee data to better understand the scope of this retirement phase and the potential impacts to the business. For example, many of these retirees would qualify for retirement packages which would have financial impacts. Additionally, their departures would leave behind open positions resulting in a heavy need for recruiting and a large knowledge gap which would likely have cascading impacts throughout the company. A mentoring program was proposed as a potential solution to help speed up knowledge aquisition by new employees after recruitment. The goals of this analysis were to; (1) Determine the number of retiring employees per title, and (2)Identify employees who would be eligible to participate in a mentorship program.
 
